@@ -13,7 +13,7 @@
 - Interactive programs in java using Scanner
 
 ## Section 2
-###Object Oriented Programming System
+### Object Oriented Programming System
 - Classes and Objects                  
 - Object creation
 - Reference variable
@@ -32,8 +32,9 @@
 - Abstraction
 - Java packages
 - Access Specifies
-##Section 3 
-###Java Built-in packages and API
+
+## Section 3 
+### Java Built-in packages and API
 - Overview of java API
 - Object class
 - String, String Buffer and String Builder
